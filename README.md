@@ -145,7 +145,7 @@ git log --oneline
 
 ## 📞 Support
 
-**Repository**: https://github.com/shreshthkchaudhary/atm_structure_simulation-using_git_commits  
+**Repository**: [https://github.com/aradhana-bit/atm-structure-stimulation-using-git-commits/blob/main/README.md]
 **Issues**: Create GitHub issue for bugs/feature requests
 
 ## 📄 License
