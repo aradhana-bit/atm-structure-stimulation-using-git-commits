@@ -21,7 +21,7 @@ A console-based **ATM (Automated Teller Machine) Simulation** built in Python th
 ### Steps to Run
 
 1. **Clone the Repository**
-git clone https://github.com/shreshthkchaudhary/atm_structure_simulation-using_git_commits.git
+git clone [https://github.com/aradhana-bit/atm-structure-stimulation-using-git-commits/blob/main/README.md]
 cd atm_structure_simulation-using_git_commits
 
 2. **Run the Program**
